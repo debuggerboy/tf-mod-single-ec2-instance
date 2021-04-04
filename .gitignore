@@ -1,0 +1,7 @@
+# Directories
+.terraform
+plans
+
+# Files
+.terraform.lock.hcl
+*.tfstate
